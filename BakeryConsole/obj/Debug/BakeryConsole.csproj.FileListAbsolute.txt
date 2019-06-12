@@ -1,0 +1,10 @@
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\bin\Debug\BakeryConsole.exe.config
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\bin\Debug\BakeryConsole.exe
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\bin\Debug\BakeryConsole.pdb
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\bin\Debug\BakeryRepository.dll
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\bin\Debug\BakeryRepository.pdb
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\obj\Debug\BakeryConsole.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\obj\Debug\BakeryConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\obj\Debug\BakeryConsole.csproj.CopyComplete
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\obj\Debug\BakeryConsole.exe
+C:\Users\Nick\source\repos\HudsonBakery\BakeryConsole\obj\Debug\BakeryConsole.pdb

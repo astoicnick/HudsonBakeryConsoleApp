@@ -1,0 +1,6 @@
+C:\Users\Nick\source\repos\HudsonBakery\BakeryRepository\bin\Debug\BakeryRepository.dll
+C:\Users\Nick\source\repos\HudsonBakery\BakeryRepository\bin\Debug\BakeryRepository.pdb
+C:\Users\Nick\source\repos\HudsonBakery\BakeryRepository\obj\Debug\BakeryRepository.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\HudsonBakery\BakeryRepository\obj\Debug\BakeryRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\HudsonBakery\BakeryRepository\obj\Debug\BakeryRepository.dll
+C:\Users\Nick\source\repos\HudsonBakery\BakeryRepository\obj\Debug\BakeryRepository.pdb
